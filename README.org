@@ -1,0 +1,10 @@
+* dynamic-array
+
+Mirror of https://git.mfiano.net/mfiano/dynamic-array
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mfiano/dynamic-array.git   |
+| commit  | {"messa  |
+| systems | dynamic-array |
+|---------+-------------------------------------------|
+
