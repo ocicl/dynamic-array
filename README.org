@@ -4,7 +4,7 @@ Mirror of https://git.mfiano.net/mfiano/dynamic-array
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/mfiano/dynamic-array.git   |
-| commit  | {"messa  |
+| commit  | 6c74239  |
 | systems | dynamic-array |
 |---------+-------------------------------------------|
 
